@@ -1,0 +1,15 @@
+﻿  Vampire.cpp
+  Medusa.cpp
+  HarryPotter.cpp
+  Fight.cpp
+  Character.cpp
+  BlueMen.cpp
+d:\kyle's stuff\cs 162\project3\project3\bluemen.cpp(38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Barbarian.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+d:\kyle's stuff\cs 162\project3\project3\main.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CharacterList.cpp
+  Generating Code...
+  Project3.vcxproj -> D:\Kyle's Stuff\CS 162\Project3\Debug\Project3.exe
